@@ -1,0 +1,6 @@
+C:\Eduardo Reforço C#\ControleDeEsoque\ControleDeEsoque\bin\Debug\ControleDeEsoque.exe.config
+C:\Eduardo Reforço C#\ControleDeEsoque\ControleDeEsoque\bin\Debug\ControleDeEsoque.exe
+C:\Eduardo Reforço C#\ControleDeEsoque\ControleDeEsoque\bin\Debug\ControleDeEsoque.pdb
+C:\Eduardo Reforço C#\ControleDeEsoque\ControleDeEsoque\obj\Debug\ControleDeEstoque.csprojResolveAssemblyReference.cache
+C:\Eduardo Reforço C#\ControleDeEsoque\ControleDeEsoque\obj\Debug\ControleDeEsoque.exe
+C:\Eduardo Reforço C#\ControleDeEsoque\ControleDeEsoque\obj\Debug\ControleDeEsoque.pdb
